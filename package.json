@@ -1,0 +1,26 @@
+{
+  "name": "jolienvanschagen",
+  "version": "1.0.0",
+  "description": "Portfolio platform",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/berthermans/jolienvanschagen.git"
+  },
+  "keywords": [
+    "Art",
+    "Portfolio",
+    "Image",
+    "parser",
+    "CMS"
+  ],
+  "author": "Bert Hermans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berthermans/jolienvanschagen/issues"
+  },
+  "homepage": "https://github.com/berthermans/jolienvanschagen#readme"
+}
